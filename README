@@ -1,0 +1,18 @@
+README
+
+Author: Joshua McCarville-Schueths
+Email : jpm2t4@mst.edu
+Course: CS348, Fall 2011
+
+To compile the program, simply run the command:
+  make
+
+If necessary you can run a clean by running:
+  make clean
+
+To run the program using default settings, run:
+  driver
+  
+To run the program using a config file, run:
+  driver <config_file_name>
+  
