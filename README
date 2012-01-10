@@ -1,8 +1,6 @@
 README
 
-Author: Joshua McCarville-Schueths
-Email : jpm2t4@mst.edu
-Course: CS348, Fall 2011
+Author: jschueths
 
 To compile the program, simply run the command:
   make
